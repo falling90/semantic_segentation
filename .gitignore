@@ -1,0 +1,11 @@
+*.jpg
+*.pth
+*.pt
+*.json
+*.csv
+*.log
+*nohup*.*
+*pycache*/
+*my_venv*/
+*saved*/
+*wandb*/
